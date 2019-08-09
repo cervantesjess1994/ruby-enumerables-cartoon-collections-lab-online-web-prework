@@ -1,5 +1,7 @@
-def roll_call_dwarves# code an argument here
-  # Your code here
+def roll_call_dwarves(array)
+  array= %w[Doc,Dopey,Bashful,Grumpy]
+end
+roll_call_dwarves.each_with_index{|name, i| list[item]=i}
 end
 
 def summon_captain_planet# code an argument here
