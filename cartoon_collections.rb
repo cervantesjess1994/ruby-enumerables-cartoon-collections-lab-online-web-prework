@@ -25,6 +25,20 @@ end
 
 
 
-def find_the_cheese(cheese_types)
-  cheese_types = ["cheddar", "gouda", "camembert"]
-end
+def find_the_cheese(array)
+
+
+
+  contains_cheddar = ["banana", "cheddar", "sock"]
+
+  contains_gouda = ["potato", "gouda", "camembert"]
+
+  no_cheese = ["ham", "cellphone", "computer"]
+
+
+
+
+
+
+
+  
