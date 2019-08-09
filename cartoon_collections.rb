@@ -7,7 +7,7 @@ end
 
 
 def summon_captain_planet(planeteer_calls)
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+planeteer_calls = %w[earth, wind, fire, water, heart]
 end
 planeteer_calls.map{|memo| memo.capitalize"#{!}"}
 end
