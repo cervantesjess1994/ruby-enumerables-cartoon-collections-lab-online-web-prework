@@ -34,11 +34,3 @@ def find_the_cheese(array)
   contains_gouda = ["potato", "gouda", "camembert"]
 
   no_cheese = ["ham", "cellphone", "computer"]
-
-
-
-
-
-
-
-  
