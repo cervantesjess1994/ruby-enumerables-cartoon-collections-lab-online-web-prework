@@ -4,9 +4,10 @@ end
 roll_call_dwarves.each_with_index{|name, i| list[item]=i}
 end
 
-def summon_captain_planet# code an argument here
-  # Your code here
-end
+
+
+def summon_captain_planet(planeteer_calls)
+planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 
 def long_planeteer_calls# code an argument here
   # Your code here
