@@ -26,11 +26,14 @@ end
 
 
 def find_the_cheese(array)
-
-
-
+  array.include?([cheddar, gouda, camembert)
+  end
   contains_cheddar = ["banana", "cheddar", "sock"]
-
+  find_the_cheese(contains_gouda)
+end
   contains_gouda = ["potato", "gouda", "camembert"]
-
+  find_the_cheese(contains_gouda)
+end
   no_cheese = ["ham", "cellphone", "computer"]
+  find_the_cheese(no_cheese)
+end
